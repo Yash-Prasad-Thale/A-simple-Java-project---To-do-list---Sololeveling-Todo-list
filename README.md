@@ -3,7 +3,7 @@
 This project is started by me in order to motivate myself into studying by making a To-Do list that will help me focus more on studying by converting completing my tasks into a game.
 
 #Current developments: 
-
+I am creating the basic functionalities now into a single class.
 
 #Technical info:
 
@@ -20,8 +20,8 @@ This project is started by me in order to motivate myself into studying by makin
 Process I'm going to follow while making it:
 1. Create basic functionalities of a "ToDo List" first in "the main class".
 2. To create a leveling system that Categorizes users into different levels of sololeveling(eg. Bronze Sololeveler ,Silver Sololeveler, Golden Sololeveler, Dimond Sololeveler. ).
-3. Bundle these funtionalities into related class files.
-4. Seperate these funtionalities into Packages for reducing code redundancy(confusion).
+3. Bundle these funtionalities into related classes.
+4. Seperate these funtionalities into Packages for reducing code redundancy(confusion), as the program becomes more and more complex.
 5. Create a way to store the variable values into a CSV file.
 6. Create a way to retrive the data saved in CSV file and reloading it into variables(Using File handling and maybe any library to handle data in the csv file).
 7. Try to implement Threading to make the program more snappier.
