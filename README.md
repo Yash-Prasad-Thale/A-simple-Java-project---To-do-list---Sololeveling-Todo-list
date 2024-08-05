@@ -18,8 +18,8 @@ Process I'm going to follow while making it:
 #Technical info:
 
 (i). Variables:
-  Score: A variable that calculates overall score of the user.
-  Tasks: A ArrayList that saves tasks(I choose a ArrayList because it is Dynamic in Java).
+  1. Score: A variable that calculates overall score of the user.
+  2. Tasks: A ArrayList that saves tasks(I choose a ArrayList because it is Dynamic in Java).
 
 (ii). Features I have decided to add:
 1. I have decided to use a ArrayList as a storage(Temporary) for "Tasks".
