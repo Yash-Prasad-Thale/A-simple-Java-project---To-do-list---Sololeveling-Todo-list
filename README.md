@@ -2,6 +2,9 @@
 
 This project is started by me in order to motivate myself into studying by making a To-Do list that will help me focus more on studying by converting completing my tasks into a game.
 
+#Terms notes: 
+
+
 #Technical info:
 
 (i). Features I have decided to add:
