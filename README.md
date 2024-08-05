@@ -21,7 +21,7 @@ Process I'm going to follow while making it:
 #Technical info:
 
 (i). Variables:
-  1. Score: A variable that calculates overall score of the user.
+  1. Score: A variable that store's the overall score of the user.
   2. Tasks: A ArrayList that saves tasks(I choose a ArrayList because it is Dynamic in Java).
 
 (ii). Features I have decided to add:
