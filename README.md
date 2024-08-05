@@ -25,7 +25,7 @@ Process I'm going to follow while making it:
   2. Tasks: A ArrayList that saves tasks(I choose a ArrayList because it is Dynamic in Java).
 
 (ii). Features I have decided to add:
-1. I have decided to use a ArrayList as a storage(Temporary) for "Tasks".
+1. I have decided to use a ArrayList as a storage(Temporary){Like a R.A.M. in a computer system.} for "Tasks".
 2. A 'AddTask()' function to "Add a task to the To-Do list".
 3. A 'Cancle()' function to "Cancle a task incase a user creates a task by mistake".
 4. A 'Done()' function to "Mark a task completed and remove it from 'Tasks' and add +5 to user's 'Score'. "
