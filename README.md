@@ -1,6 +1,9 @@
 # A-simple-Java-project---To-do-list---Sololeveling-Todo-list
 
+Goal/Introduction: 
 This project is started by me in order to motivate myself into studying by making a To-Do list that will help me focus more on studying by converting completing my tasks into a Sololeveling game.
+
+#Type of Application: CommandLine Application.
 
 #Current developments: 
 05-08-2024: I am creating the basic functionalities now into a single class.
