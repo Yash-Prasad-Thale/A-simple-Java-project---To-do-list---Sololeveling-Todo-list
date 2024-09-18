@@ -1,9 +1,9 @@
-# A-simple-Java-project---To-do-list---Sololeveling-Todo-list
+#A-simple-Java-project---To-do-list---Sololeveling-Todo-list
 
 Goal/Introduction: 
 This project is started by me in order to motivate myself into studying by making a To-Do list that will help me focus more on studying, by converting, 'completing my tasks' into a 'Sololeveling game'.
 
-#Type of Application: CommandLine Application.
+#Type of Application: CommandLine Application { For now, so that I can test this. I'll make a GUI with time. }
 
 #Current developments: 
 05-08-2024: I am creating the basic functionalities now into a single class.
@@ -33,4 +33,5 @@ Process I'm going to follow while making it:
 6. A 'FunctChoice()' function to " Get user's choice of functionality {I want to improve it to take a funtionality from sentences user enters using specific keywords.}".
 7. A 'SololevelerLevel()' function to implement a leveling into the tasks application{Using "Switch case statements"}.
 8. A 'EndOfDay()' funtion to Save the data into a CSV(Commma seperated values) file using some library{I'll work on it in the end.}.
+Use: { The csv file is just for saving the last completed tasks and Just for testing purposes. }
 
